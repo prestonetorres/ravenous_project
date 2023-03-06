@@ -4,7 +4,8 @@
 
 
 Visit the link below and request temporary demo in order to run the Yelp API. 
-(https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy})
+
+https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}
 
 ## Available Scripts
 
