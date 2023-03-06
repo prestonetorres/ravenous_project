@@ -79,10 +79,8 @@ render(){
               <input placeholder="Where?" 
                      onChange={this.handleLocationChange} />
             </div>
-            <div 
-            className="SearchBar-submit"
-            onClick={this.handleSearch}>
-              <a>Let's Go</a>
+            <div className="SearchBar-submit">
+              <button  onClick={this.handleSearch}>Let's Go</button>
             </div>
         </div>
     )}
