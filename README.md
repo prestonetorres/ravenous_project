@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Ravenous:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/prestonetorres/ravenous_project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/prestonetorres/ravenous_project/tree/main)
+
+
+Visit the link below and request temporary demo in order to run the Yelp API. 
+(https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy})
 
 ## Available Scripts
 
